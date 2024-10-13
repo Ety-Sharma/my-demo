@@ -2,4 +2,4 @@
 This is my first git repository
 <br>
 Author-Ety Sharma
-B.tech cse
+B.tech CSE
